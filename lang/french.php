@@ -297,8 +297,6 @@ $lang = array(
 /*
 * Vinaget by LTT
 * Version: 3.3 LTS
-*/
-?>
 * Language: French
 */
 ?>
